@@ -8,7 +8,7 @@ PING latencykid (127.0.0.1): shipping onchain things
 
 ### latency
 
-builder. ships onchain things at 4am from localhost.  
+builder. ships things pretty late from localhost.  
 low latency, high output.
 
 ```txt
