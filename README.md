@@ -1,9 +1,14 @@
-### wavy
+```
+$ whoami
+wavy
 
 solo builder on hyperliquid.
 
-- **building:** onchain tools
-- **stack:** typescript · solidity · rust · python
-- **chains:** hyperliquid · solana
+> status    building
+> stack     typescript · solidity · rust · python
+> chains    hyperliquid · solana
+> x         @wavyonchain
 
-[x / @wavyonchain](https://x.com/wavyonchain)
+currently
+[■■■■■■■□□□] onchain tools
+```
