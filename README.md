@@ -1,14 +1,9 @@
-```
-$ whoami
-wvydev
+### wavy
 
-builder. ships late, ships anyway.
+solo builder on hyperliquid.
 
-> status    building
-> stack     typescript · solidity · rust · python
-> chains    solana · hyperliquid
-> uptime    whenever it ships
+- **building:** onchain tools
+- **stack:** typescript · solidity · rust · python
+- **chains:** hyperliquid · solana
 
-currently
-[■■■■■■■□□□] something onchain
-```
+[x / @wavyonchain](https://x.com/wavyonchain)
